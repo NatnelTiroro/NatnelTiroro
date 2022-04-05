@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NatnelTiroro
-- 👀 I’m interested in Cybersecuirty, 
+- 👀 I’m interested in Cybersecuirty
 - 🌱 I’m currently learning Powershell, active diretory and azure 
-- 
--
+
 
 <!---
 NatnelTiroro/NatnelTiroro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
