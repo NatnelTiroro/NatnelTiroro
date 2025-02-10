@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @NatnelTiroro
-- 👀 I’m interested in Cybersecuirty
-- 🌱 I’m currently learning Powershell, active diretory and azure 
-
+Hello! This GitHub account is dedicated to 
+documenting my technical projects. 
+These repositories contain write-ups that showcase my practical work.
 
 <!---
 NatnelTiroro/NatnelTiroro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
